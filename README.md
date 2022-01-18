@@ -9,8 +9,9 @@
 ### 🌱 Technical Skills:
 ### -> Python: proficient
 ### -> JAVA: proficient
+### -> HTML: proficient
+### -> CSS: proficient
 ### -> C++: beginner
-### -> HTML: beginner
 ### 
 ### 😄 Pronouns: she/her/hers 
 
