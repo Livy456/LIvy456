@@ -1,11 +1,11 @@
 ### Hi I'm Olivia 👋
 ### 
 ### 🔭 I’m currently working on: 
-### -> Undergraduate Research Opportunity Program (UROP) with the MIT Media Lab
+### -> Undergraduate Research Opportunity Program (UROP) with MIT Scheller Teacher Education Program (STEP) Lab
 ### 
-### 🌱 Technical Skills:
-### -> Python: proficient
-### -> JAVA: proficient
+### 🌱 Programming Languages:
+### -> Python
+### -> JAVA
 ### 
 ### 😄 Pronouns: she/her/hers 
 
