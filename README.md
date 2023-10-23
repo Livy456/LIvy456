@@ -7,6 +7,8 @@
 ### -> Python
 ### -> JAVA
 ### -> HTML
+### -> CSS
+### -> Javascript
 ### 😄 Pronouns: she/her/hers 
 
 <!--
